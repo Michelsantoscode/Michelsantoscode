@@ -1,8 +1,8 @@
-## Oi, Eu sou o Michel 👋  
+## Óla, Eu sou o Michel 👋  
 > Explorando o universo da programação com foco em backend e boas práticas de desenvolvimento.
 
 <!-- Me ;D -->
-👨🏻‍💻 Estudante de Analise e Desenvolvimente de Software<br/>
+👨🏻‍💻 Estudante de Analise e Desenvolvimente de Sistemas<br/>
 🎓 Estudando Python, Java e Spring Boot com foco em backend<br/>
 📚 Compartilhando aprendizados sobre programação, Git e projetos no GitHub<br/>
 🌱 Atualmente aprendendo sobre Python<br/>
