@@ -3,9 +3,8 @@
 
 <!-- Sobre mim -->
 👨🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🎯 Focado em backend com **Python**, **Java** e **Spring Boot**  
+🎯 Focado em desenvolvimento backend, aprendendo Python, Java e Spring Boot.  
 📘 Compartilhando aprendizados sobre programação, Git e projetos no GitHub  
-🌱 Atualmente aprofundando meus conhecimentos em Python e princípios de desenvolvimento limpo  
 
 ---
 
@@ -25,15 +24,21 @@
 
 ---
 
+## 🧰 Linguagens
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" />
+
+<br /><br />
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
   <!-- Atividade geral -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michelsantoscode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&icon_color=777bd9&title_color=777bd9&bg_color=1a181a" />
-  
-  <!-- Streak de contribuições -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Michelsantoscode&theme=dracula&hide_border=false&ring=777bd9&fire=ff79c6&currStreakLabel=ffffff&background=1a181a" />
-  
+   
   <!-- Linguagens mais usadas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelsantoscode&layout=compact&langs_count=7&theme=dracula&hide_border=false&title_color=777bd9&bg_color=1a181a&text_color=ffffff" />
 </div>
+
