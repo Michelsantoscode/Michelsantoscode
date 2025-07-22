@@ -19,7 +19,12 @@
 
 <!-- GitHub stats -->
 <br/>
-<div style="display: flex; gap: 10px;">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Michelsantoscode&theme=dracula&hide_border=false&include_all_commits=true&show_icons=true&count_private=true&icon_color=777bd9&title_color=777bd9&bg_color=1a181a" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelsantoscode&layout=compact&langs_count=5&icon_color=777bd9&title_color=777bd9&bg_color=1a181a&text_color=ffffff" />
+
+<div align="center">
+  <a href="https://github.com/Michelsantoscode">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michelsantoscode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&icon_color=777bd9&title_color=777bd9&bg_color=1a181a" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Michelsantoscode&theme=dracula&hide_border=false&ring=777bd9&fire=777bd9&currStreakLabel=ffffff&background=1a181a" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelsantoscode&layout=compact&langs_count=7&theme=dracula&hide_border=false&title_color=777bd9&bg_color=1a181a&text_color=ffffff" />
+  </a>
 </div>
+
