@@ -3,7 +3,7 @@
 
 <!-- Sobre mim -->
 👨🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🎯 Focado em desenvolvimento backend, aprendendo Python, Java e Spring Boot.  
+🎯 Focado em desenvolvimento backend, Python, Java e AWS.  
 📘 Compartilhando aprendizados sobre programação, Git e projetos no GitHub  
 
 ---
