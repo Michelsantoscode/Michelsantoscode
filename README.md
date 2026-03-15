@@ -8,9 +8,9 @@
 
 # 🚀 Sobre mim
 
-💻 Desenvolvedor em formação focado em **Backend**
+💻 Desenvolvedor focado em **Backend**
 
-📚 Atualmente estudando:
+📚 Stack:
 
 * Java
 * Spring Boot
@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=github.com/michelsantoscode&theme=tokyonight"/>
 
 </p>
 
@@ -56,7 +56,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=github.com/michelsantoscode&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -66,7 +66,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?github.com/michelsantoscode&theme=tokyo-night"/>
 
 </p>
 
