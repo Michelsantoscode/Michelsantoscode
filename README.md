@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michelsantoscodee&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=michelsantoscode&theme=tokyonight"/>
 
 </p>
 
@@ -66,7 +66,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?github.com/michelsantoscode&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=michelsantoscode&theme=tokyo-night"/>
 
 </p>
 
