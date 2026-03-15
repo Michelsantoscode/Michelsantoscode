@@ -42,16 +42,6 @@
 
 ---
 
-# 🔥 Streak de contribuições
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?username=michelsantoscode&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🏆 Troféus do GitHub
 
 <p align="center">
