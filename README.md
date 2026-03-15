@@ -34,9 +34,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelsantoscode&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelsantoscode&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=github.com/michelsantoscode&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michelsantoscodee&theme=tokyonight"/>
 
 </p>
 
@@ -56,7 +56,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=github.com/michelsantoscode&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=michelsantoscode&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -76,7 +76,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=michelsantoscode&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </p>
 
